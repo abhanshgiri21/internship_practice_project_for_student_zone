@@ -1,0 +1,59 @@
+.jumbotron-top{
+    text-align: center;
+    font-size: 90px;
+    font-family: times;
+    color: brown;
+}
+#maincontentheading{
+    color:blue;
+    background-color:#eeeeee;
+    border-left:4px solid red;
+    padding :20px;
+    margin-top:30px;
+}
+.list-group a h2{
+    color:darkslategray;
+    padding:20px;
+    text-decoration: none;
+}
+.list-group a{
+    text-decoration: none;
+    border-radius: 20px;
+}
+.list-group a h2:hover{
+    background-color:#000;
+    color:#cccccc;
+    padding:20px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.list-group a h2:visited{
+    color:darkslategray;
+    padding:20px;
+    text-decoration: none;
+}
+.list-group a h2:active{
+    background-color:#000;
+    color:#ffffff;
+    padding:20px;
+    text-decoration: none;
+}
+.list-group a h4{
+    text-align: center;
+}
+#signupHeading{
+    text-align: center;
+    font-size: 40px;
+    border-radius: 25px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.form-group{
+    margin-top: 30px;  
+}
+.jumbotron-bottom{
+    margin-top:50px;
+    text-align: center;
+    font-size: 15px;
+    color:#777777;
+}
